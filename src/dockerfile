@@ -1,0 +1,62 @@
+FROM nvidia/cuda:11.4.3-cudnn8-runtime-ubuntu20.04
+
+# Set the working directory in the container
+WORKDIR /app
+
+ENV DEBIAN_FRONTEND=noninteractive
+ENV PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:32
+
+# Install Python and system dependencies
+RUN apt-get update && apt-get install -y \
+    python3.8 \
+    python3-pip \
+    wget \
+    git \
+    libjpeg-dev \
+    zlib1g-dev \
+    libpython3-dev \
+    libopenblas-dev \
+    libavcodec-dev \
+    libavformat-dev \
+    libswscale-dev \
+    libgl1 \
+    libglib2.0-0 \
+    libopencv-dev \
+    python3-opencv \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+# Upgrade pip
+RUN python3 -m pip install --upgrade pip
+
+# Copy the requirements file
+COPY requirements.txt .
+
+# Install PyTorch 2.0.4 with CUDA 11.4 support
+ENV TORCH_INSTALL=https://developer.download.nvidia.cn/compute/redist/jp/v511/pytorch/torch-2.0.0+nv23.05-cp38-cp38-linux_aarch64.whl
+RUN python3 -m pip install --no-cache $TORCH_INSTALL 
+
+RUN git clone --branch v0.15.1 https://github.com/pytorch/vision torchvision \
+    && cd torchvision \
+    && export BUILD_VERSION=0.15.1 \
+    && export MAX_JOBS=1 \
+    && python3 setup.py install
+
+# Install the required Python packages
+RUN pip3 install --no-cache-dir -r requirements.txt
+
+# Copy the application code
+COPY GPUU.py .
+COPY templates/ /app/templates
+
+# Expose the port on which the Flask app will run
+EXPOSE 5000
+
+# Set the environment variable for the Flask app
+ENV FLASK_APP=GPUU.py
+
+
+
+
+# Run the Flask app
+CMD ["python3", "-m", "flask", "run", "--host=0.0.0.0"]

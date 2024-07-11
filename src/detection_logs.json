@@ -1,0 +1,6937 @@
+[
+    {
+        "timestamp": 1719347079.4152162,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.61,
+                "box": [
+                    15,
+                    101,
+                    981,
+                    710
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347079.598401,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    107,
+                    900,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347079.753221,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    106,
+                    886,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.29,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347079.859953,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    104,
+                    889,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347079.9813309,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    3,
+                    102,
+                    891,
+                    712
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347080.0773828,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    2,
+                    103,
+                    890,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347080.17965,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    107,
+                    882,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347080.289665,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    2,
+                    104,
+                    892,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347080.389305,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    1,
+                    107,
+                    885,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.25,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347080.4942908,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    105,
+                    886,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347080.601033,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    0,
+                    106,
+                    885,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347080.696913,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    105,
+                    886,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.45,
+                "box": [
+                    1061,
+                    613,
+                    1280,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347080.798562,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    105,
+                    883,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.32,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347080.900715,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    106,
+                    884,
+                    713
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.28,
+                "box": [
+                    1061,
+                    614,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347081.0159948,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    106,
+                    893,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.27,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347081.116304,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    105,
+                    885,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.27,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347081.218786,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    105,
+                    892,
+                    713
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347081.332481,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    106,
+                    887,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.26,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347081.426487,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    106,
+                    888,
+                    713
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.29,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347081.5278258,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    105,
+                    887,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347081.629524,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    106,
+                    889,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347081.733696,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    106,
+                    887,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347081.8518138,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    106,
+                    886,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347081.943806,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    106,
+                    885,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347082.041684,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    105,
+                    885,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.41,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347082.149153,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    106,
+                    886,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.27,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347082.249568,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    105,
+                    885,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347082.474406,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    104,
+                    887,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.39,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347082.56233,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    105,
+                    886,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.49,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347082.6613388,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    1,
+                    99,
+                    890,
+                    711
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347082.763393,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    2,
+                    99,
+                    894,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347082.8647401,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    105,
+                    884,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.32,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347082.977463,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    2,
+                    99,
+                    890,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.39,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347083.078217,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.92,
+                "box": [
+                    0,
+                    104,
+                    884,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.42,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347083.178632,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    100,
+                    894,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347083.296789,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    0,
+                    101,
+                    893,
+                    713
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347083.3964002,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.8,
+                "box": [
+                    304,
+                    102,
+                    883,
+                    713
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.27,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347083.4906409,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.75,
+                "box": [
+                    270,
+                    102,
+                    882,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.3,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "cat",
+                "confidence": 0.28,
+                "box": [
+                    295,
+                    423,
+                    439,
+                    552
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347083.595382,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    237,
+                    103,
+                    882,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.29,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347083.702875,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    242,
+                    99,
+                    879,
+                    713
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.27,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347083.799364,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.73,
+                "box": [
+                    9,
+                    101,
+                    886,
+                    714
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.44,
+                "box": [
+                    166,
+                    622,
+                    277,
+                    651
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347083.904244,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.76,
+                "box": [
+                    22,
+                    102,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347084.01566,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.8,
+                "box": [
+                    7,
+                    102,
+                    883,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.39,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.27,
+                "box": [
+                    168,
+                    621,
+                    262,
+                    652
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347084.105761,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.77,
+                "box": [
+                    5,
+                    104,
+                    883,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.46,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347084.207558,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.84,
+                "box": [
+                    238,
+                    104,
+                    878,
+                    714
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347084.314412,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    240,
+                    100,
+                    876,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.28,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347084.419734,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.82,
+                "box": [
+                    4,
+                    102,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.41,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.27,
+                "box": [
+                    167,
+                    619,
+                    272,
+                    653
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347084.5215218,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.84,
+                "box": [
+                    3,
+                    104,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.39,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.34,
+                "box": [
+                    167,
+                    620,
+                    266,
+                    654
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347084.620298,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    3,
+                    103,
+                    879,
+                    714
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.31,
+                "box": [
+                    167,
+                    621,
+                    264,
+                    655
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.26,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347084.7327309,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    1,
+                    103,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.31,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347084.832673,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    1,
+                    105,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.39,
+                "box": [
+                    166,
+                    620,
+                    265,
+                    656
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.27,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347085.030397,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    105,
+                    879,
+                    714
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.28,
+                "box": [
+                    166,
+                    620,
+                    265,
+                    657
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347085.1365492,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    105,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.44,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.33,
+                "box": [
+                    165,
+                    620,
+                    265,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347085.241706,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    104,
+                    882,
+                    715
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.33,
+                "box": [
+                    166,
+                    620,
+                    265,
+                    658
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.3,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347085.34653,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    105,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.34,
+                "box": [
+                    166,
+                    620,
+                    266,
+                    658
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347085.462864,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.83,
+                "box": [
+                    2,
+                    105,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.32,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.3,
+                "box": [
+                    166,
+                    620,
+                    265,
+                    657
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347085.561696,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    1,
+                    105,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.31,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.26,
+                "box": [
+                    166,
+                    620,
+                    266,
+                    656
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347085.655574,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    1,
+                    106,
+                    882,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.27,
+                "box": [
+                    167,
+                    621,
+                    265,
+                    656
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347085.757531,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    0,
+                    105,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.36,
+                "box": [
+                    165,
+                    620,
+                    267,
+                    657
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347085.862634,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    105,
+                    883,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.3,
+                "box": [
+                    165,
+                    621,
+                    265,
+                    656
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347085.9668212,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.79,
+                "box": [
+                    5,
+                    105,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.42,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347086.0830688,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    2,
+                    106,
+                    878,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347086.1758761,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.83,
+                "box": [
+                    2,
+                    106,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1062,
+                    614,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.31,
+                "box": [
+                    166,
+                    621,
+                    264,
+                    657
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347086.2777548,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    1,
+                    105,
+                    886,
+                    715
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.39,
+                "box": [
+                    166,
+                    620,
+                    265,
+                    656
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.27,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347086.382675,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.84,
+                "box": [
+                    3,
+                    106,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.33,
+                "box": [
+                    164,
+                    621,
+                    265,
+                    657
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.31,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347086.482949,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    1,
+                    106,
+                    883,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347086.583719,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.84,
+                "box": [
+                    2,
+                    105,
+                    882,
+                    715
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.35,
+                "box": [
+                    165,
+                    620,
+                    270,
+                    657
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347086.686954,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    105,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.4,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.29,
+                "box": [
+                    163,
+                    620,
+                    270,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347086.7893188,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    106,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.39,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.27,
+                "box": [
+                    164,
+                    619,
+                    279,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347086.8965251,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    105,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347086.996049,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    106,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.39,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347087.098729,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    1,
+                    106,
+                    878,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.25,
+                "box": [
+                    164,
+                    620,
+                    269,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347087.203935,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    2,
+                    106,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.26,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347087.3084302,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    106,
+                    879,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.33,
+                "box": [
+                    165,
+                    620,
+                    267,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347087.418883,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    105,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347087.51794,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    105,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.4,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347087.624182,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    104,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.4,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.26,
+                "box": [
+                    163,
+                    620,
+                    270,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347087.7219598,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    106,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.4,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.29,
+                "box": [
+                    166,
+                    620,
+                    267,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347087.823503,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    105,
+                    882,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.31,
+                "box": [
+                    166,
+                    620,
+                    270,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347087.9292538,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    105,
+                    879,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.31,
+                "box": [
+                    163,
+                    619,
+                    275,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347088.030399,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    2,
+                    106,
+                    879,
+                    714
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.32,
+                "box": [
+                    162,
+                    620,
+                    269,
+                    658
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.3,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347088.1452758,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    104,
+                    885,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.31,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.25,
+                "box": [
+                    166,
+                    619,
+                    276,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347088.3411682,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    105,
+                    884,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.3,
+                "box": [
+                    166,
+                    620,
+                    267,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347088.465696,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    104,
+                    884,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.31,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.27,
+                "box": [
+                    162,
+                    620,
+                    269,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347088.5799859,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    1,
+                    107,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347088.687916,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    2,
+                    106,
+                    883,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.26,
+                "box": [
+                    164,
+                    620,
+                    266,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347088.787727,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    106,
+                    879,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.4,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.26,
+                "box": [
+                    165,
+                    619,
+                    284,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347088.8905358,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    1,
+                    104,
+                    885,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.31,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347088.993402,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    104,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.39,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347089.09862,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    107,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.43,
+                "box": [
+                    1061,
+                    614,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.26,
+                "box": [
+                    163,
+                    619,
+                    273,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347089.201131,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    106,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.28,
+                "box": [
+                    165,
+                    621,
+                    265,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347089.304605,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    2,
+                    104,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.32,
+                "box": [
+                    164,
+                    619,
+                    277,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347089.4062238,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    1,
+                    104,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.41,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.27,
+                "box": [
+                    163,
+                    620,
+                    271,
+                    660
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347089.5165398,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    104,
+                    879,
+                    714
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.4,
+                "box": [
+                    166,
+                    619,
+                    279,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347089.6144168,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    104,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.29,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347089.7182348,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    105,
+                    879,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347089.820769,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    105,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.26,
+                "box": [
+                    163,
+                    620,
+                    267,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347089.930451,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    104,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.32,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347090.0352058,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    1,
+                    104,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.25,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347090.138985,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    2,
+                    103,
+                    882,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.41,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347090.2441542,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.84,
+                "box": [
+                    2,
+                    102,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.33,
+                "box": [
+                    164,
+                    620,
+                    266,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347090.3555489,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    1,
+                    103,
+                    879,
+                    714
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.36,
+                "box": [
+                    166,
+                    620,
+                    265,
+                    657
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.31,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347090.45101,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    1,
+                    101,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.39,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.35,
+                "box": [
+                    166,
+                    620,
+                    265,
+                    655
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347090.553636,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    1,
+                    102,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.41,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.34,
+                "box": [
+                    167,
+                    621,
+                    263,
+                    655
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347090.6524951,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    1,
+                    102,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.45,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.3,
+                "box": [
+                    167,
+                    621,
+                    263,
+                    655
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347090.751209,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    1,
+                    102,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.26,
+                "box": [
+                    167,
+                    621,
+                    262,
+                    655
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347090.8537118,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    102,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.37,
+                "box": [
+                    166,
+                    621,
+                    262,
+                    654
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347090.9665642,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.79,
+                "box": [
+                    1,
+                    101,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.33,
+                "box": [
+                    167,
+                    621,
+                    263,
+                    655
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347091.1372101,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    101,
+                    884,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.3,
+                "box": [
+                    167,
+                    621,
+                    263,
+                    655
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347091.390518,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    101,
+                    885,
+                    715
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.34,
+                "box": [
+                    167,
+                    620,
+                    264,
+                    655
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.25,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347091.604664,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.82,
+                "box": [
+                    0,
+                    100,
+                    883,
+                    714
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.38,
+                "box": [
+                    166,
+                    619,
+                    277,
+                    656
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.32,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347091.747981,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    101,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.42,
+                "box": [
+                    1061,
+                    614,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.28,
+                "box": [
+                    166,
+                    620,
+                    267,
+                    657
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347091.888679,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    101,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.27,
+                "box": [
+                    165,
+                    619,
+                    271,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347092.088033,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    100,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347092.203126,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    0,
+                    102,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.35,
+                "box": [
+                    165,
+                    620,
+                    266,
+                    657
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347092.319066,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    101,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.41,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.38,
+                "box": [
+                    166,
+                    620,
+                    267,
+                    657
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347092.457064,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    1,
+                    102,
+                    879,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.29,
+                "box": [
+                    166,
+                    619,
+                    272,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347092.58093,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    0,
+                    101,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.35,
+                "box": [
+                    162,
+                    619,
+                    276,
+                    657
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347092.710434,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    101,
+                    887,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.31,
+                "box": [
+                    166,
+                    620,
+                    276,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347092.83246,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    102,
+                    882,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.25,
+                "box": [
+                    166,
+                    620,
+                    269,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347092.944452,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    103,
+                    879,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.26,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347093.077209,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    102,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.4,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.31,
+                "box": [
+                    167,
+                    620,
+                    265,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347093.299126,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    0,
+                    103,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.36,
+                "box": [
+                    166,
+                    620,
+                    269,
+                    657
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.3,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347093.421315,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.84,
+                "box": [
+                    2,
+                    104,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.31,
+                "box": [
+                    165,
+                    620,
+                    267,
+                    657
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347093.579301,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.83,
+                "box": [
+                    2,
+                    106,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.34,
+                "box": [
+                    167,
+                    621,
+                    265,
+                    657
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347093.688142,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    1,
+                    104,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.31,
+                "box": [
+                    165,
+                    620,
+                    266,
+                    658
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.3,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347093.8094661,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    104,
+                    884,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347094.020438,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    0,
+                    105,
+                    888,
+                    715
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.31,
+                "box": [
+                    164,
+                    619,
+                    269,
+                    658
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.28,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347094.1667929,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    104,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1061,
+                    614,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.29,
+                "box": [
+                    164,
+                    620,
+                    265,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347094.419898,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    106,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347094.910461,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    105,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347095.1420429,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    104,
+                    882,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347095.298006,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    104,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347095.436276,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    103,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347095.577863,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    105,
+                    883,
+                    715
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.3,
+                "box": [
+                    164,
+                    620,
+                    270,
+                    659
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.28,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347095.835082,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    105,
+                    882,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.28,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347095.973973,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    105,
+                    884,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.41,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347096.0957272,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.81,
+                "box": [
+                    1,
+                    106,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.28,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347096.247212,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.8,
+                "box": [
+                    3,
+                    106,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347096.369969,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.84,
+                "box": [
+                    2,
+                    106,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347096.49763,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.84,
+                "box": [
+                    1,
+                    107,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.32,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.27,
+                "box": [
+                    165,
+                    619,
+                    271,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347096.74252,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.83,
+                "box": [
+                    1,
+                    106,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.46,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.31,
+                "box": [
+                    165,
+                    620,
+                    271,
+                    660
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347096.869843,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    107,
+                    881,
+                    715
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347096.999902,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    0,
+                    106,
+                    882,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347097.108514,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    1,
+                    106,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.41,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347097.2398028,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    106,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347097.34687,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    1,
+                    104,
+                    880,
+                    715
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347097.480219,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    105,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347097.590283,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    1,
+                    103,
+                    888,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.29,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347097.8087249,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.82,
+                "box": [
+                    3,
+                    104,
+                    886,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347097.936291,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    0,
+                    104,
+                    885,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.33,
+                "box": [
+                    165,
+                    620,
+                    267,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347098.063328,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    0,
+                    104,
+                    888,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.29,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.26,
+                "box": [
+                    166,
+                    619,
+                    270,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347098.1767879,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.82,
+                "box": [
+                    1,
+                    104,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347098.315089,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.79,
+                "box": [
+                    7,
+                    109,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347098.608566,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    1,
+                    105,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.46,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.29,
+                "box": [
+                    162,
+                    619,
+                    273,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347098.823315,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    103,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.27,
+                "box": [
+                    166,
+                    620,
+                    268,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347098.967071,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    1,
+                    103,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.29,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347099.095396,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    0,
+                    104,
+                    883,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347099.3173912,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    103,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.44,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347099.4468741,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    1,
+                    101,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347099.586601,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    102,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.31,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347099.7166889,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.8,
+                "box": [
+                    3,
+                    102,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.39,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347099.94491,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    103,
+                    882,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1062,
+                    614,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347100.078768,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    102,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347100.225364,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.78,
+                "box": [
+                    227,
+                    103,
+                    875,
+                    713
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.35,
+                "box": [
+                    165,
+                    620,
+                    268,
+                    658
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347100.341544,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.82,
+                "box": [
+                    1,
+                    103,
+                    879,
+                    714
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347100.5250518,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    103,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347100.764288,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    102,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.32,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347100.892693,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    102,
+                    885,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.32,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347101.0405629,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    102,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347101.1611369,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    101,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.25,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347101.2910411,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    101,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347101.425002,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    101,
+                    882,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.39,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347101.552127,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    0,
+                    102,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.4,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.28,
+                "box": [
+                    164,
+                    619,
+                    271,
+                    660
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347101.695562,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    101,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.48,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.28,
+                "box": [
+                    165,
+                    620,
+                    266,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347101.8117251,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    100,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.4,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347102.088175,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    99,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347102.215484,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    101,
+                    883,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347102.374601,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    104,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.28,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347102.5089972,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    102,
+                    882,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.44,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347102.657315,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    103,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347102.79943,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    1,
+                    104,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347102.928324,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    105,
+                    879,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347103.2042408,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    105,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347103.358411,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    106,
+                    883,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347103.493837,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    108,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.31,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347103.6176372,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    108,
+                    900,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.3,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347103.7627468,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    109,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.29,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347103.878099,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.84,
+                "box": [
+                    3,
+                    108,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.29,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347103.994873,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    108,
+                    882,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.4,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347104.137111,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    108,
+                    883,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.31,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347104.2646642,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    0,
+                    107,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.25,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347104.511713,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    108,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.31,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347104.672519,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    107,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347104.837636,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    106,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.44,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347104.967529,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    107,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347105.131547,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    107,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.28,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347105.271384,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    108,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347105.392617,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    2,
+                    107,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.44,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347105.513582,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    106,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347105.7547781,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    107,
+                    882,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.31,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347105.901488,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    107,
+                    882,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.32,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347106.040679,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    1,
+                    107,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.42,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347106.163022,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    1,
+                    107,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.43,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347106.2973042,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    107,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.44,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347106.4321878,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    1,
+                    107,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347106.544302,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    3,
+                    106,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.29,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347106.795119,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    1,
+                    105,
+                    880,
+                    716
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347106.9316301,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    102,
+                    881,
+                    716
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347107.0831249,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    1,
+                    102,
+                    880,
+                    716
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347107.202419,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.84,
+                "box": [
+                    1,
+                    105,
+                    883,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347107.3316941,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    104,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.41,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347107.5515761,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.84,
+                "box": [
+                    1,
+                    104,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.42,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347107.68317,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    102,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.39,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347107.826139,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    2,
+                    103,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1061,
+                    614,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347107.9407942,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    2,
+                    104,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347108.058573,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    3,
+                    104,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.32,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347108.1995862,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    104,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.45,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347108.343491,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    104,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.42,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347108.584735,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    1,
+                    103,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347108.7241228,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    104,
+                    883,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.28,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347108.879756,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    0,
+                    103,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347109.0165482,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    104,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.39,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347109.1583161,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.87,
+                "box": [
+                    1,
+                    102,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.36,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347109.2935429,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    1,
+                    103,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347109.509186,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    104,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.34,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347109.6585011,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    2,
+                    103,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347109.788824,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    105,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347109.946384,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    106,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.28,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347110.08238,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    103,
+                    882,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347110.228984,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    1,
+                    102,
+                    881,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.37,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347110.358567,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    0,
+                    104,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.3,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347110.500418,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    0,
+                    103,
+                    879,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.42,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347110.747846,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    0,
+                    104,
+                    881,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.44,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347110.9608011,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    102,
+                    880,
+                    715
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347111.103559,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    0,
+                    103,
+                    880,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347111.249357,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    103,
+                    883,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.35,
+                "box": [
+                    1062,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347111.374885,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    100,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.32,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347111.636815,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.88,
+                "box": [
+                    1,
+                    102,
+                    882,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.32,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347111.792972,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.85,
+                "box": [
+                    1,
+                    104,
+                    880,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.39,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347111.94691,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.9,
+                "box": [
+                    0,
+                    102,
+                    879,
+                    715
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.29,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347112.0840478,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    104,
+                    883,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.33,
+                "box": [
+                    1061,
+                    612,
+                    1279,
+                    716
+                ]
+            },
+            {
+                "class": "remote",
+                "confidence": 0.26,
+                "box": [
+                    164,
+                    620,
+                    274,
+                    659
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347112.243828,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.89,
+                "box": [
+                    0,
+                    107,
+                    890,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.26,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347112.365361,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.86,
+                "box": [
+                    11,
+                    109,
+                    893,
+                    712
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.28,
+                "box": [
+                    1062,
+                    613,
+                    1279,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347112.604445,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    108,
+                    894,
+                    714
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.31,
+                "box": [
+                    1061,
+                    613,
+                    1278,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347112.747552,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    106,
+                    893,
+                    713
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.32,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347112.885419,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    105,
+                    892,
+                    713
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.43,
+                "box": [
+                    1062,
+                    612,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347113.03871,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.92,
+                "box": [
+                    0,
+                    106,
+                    891,
+                    713
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.41,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347113.1609879,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    106,
+                    889,
+                    713
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.38,
+                "box": [
+                    1061,
+                    613,
+                    1279,
+                    716
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347113.300709,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    106,
+                    889,
+                    713
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.42,
+                "box": [
+                    1061,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1719347113.4329169,
+        "detections": [
+            {
+                "class": "person",
+                "confidence": 0.91,
+                "box": [
+                    0,
+                    107,
+                    888,
+                    713
+                ]
+            },
+            {
+                "class": "chair",
+                "confidence": 0.28,
+                "box": [
+                    1062,
+                    612,
+                    1278,
+                    717
+                ]
+            }
+        ]
+    }
+]
