@@ -1,1 +1,1 @@
-# object-detection_-Jetson_nano
+# object-detection_Jetson_nano
